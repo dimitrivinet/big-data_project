@@ -1,5 +1,8 @@
 # toy_server: a Big Data course project
 
+A simple API to predict flowers of the Iris dataset. It takes a form with 4 values in a POST request and returns a string containing the prediction, while logging the requester's IP, the values provided and the prediction in a mongo database.
+
+
 ### Requirements:
 
 - minikube: https://minikube.sigs.k8s.io/docs/start/
