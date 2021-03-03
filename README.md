@@ -1,4 +1,4 @@
-# toy_server
+# toy_server: a Big Data course project
 
 ### Requirements:
 
